@@ -11,7 +11,7 @@ import SwiftUI
 struct ZingApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            PhoneNumberView()
         }
     }
 }
